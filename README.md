@@ -45,7 +45,7 @@ The code here implements image cloning proposed in [Poisson image editing](https
 python poisson_image_editing.py
 ```
 
-<img src="https://github.com/zishun/Poisson-EVA2019/raw/main/data/pie/pie_result.png" width="350"/>
+<img src="https://github.com/zishun/Poisson-EVA2019/raw/main/data/pie/pie_result.png" width="800"/>
 
 ## Bibtex
 ```
