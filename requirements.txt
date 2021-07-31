@@ -1,0 +1,5 @@
+numpy
+scipy
+rpy2
+Cython
+tqdm
