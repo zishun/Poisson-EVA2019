@@ -51,7 +51,7 @@ python poisson_image_editing.py
 ```
 @article{PoissonEVA2019,
     title = {Spatio-temporal prediction of missing temperature with stochastic {P}oisson equations},
-    authors = {Cheng, Dan and Liu, Zishun},
+    author = {Cheng, Dan and Liu, Zishun},
     year = 2021,
     journal = {Extremes},
     pages = {163--175},
