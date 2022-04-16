@@ -56,7 +56,7 @@ python poisson_image_editing.py
     journal = {Extremes},
     pages = {163--175},
     volume = {24},
-    issue = {1},
+    number = {1},
     issn = {1572-915X},
     url = {https://doi.org/10.1007/s10687-020-00397-w},
     doi = {10.1007/s10687-020-00397-w}
