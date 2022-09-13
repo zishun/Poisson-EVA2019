@@ -44,6 +44,8 @@ The code here implements image cloning proposed in [Poisson image editing](https
 ```
 python poisson_image_editing.py
 ```
+or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zishun/Poisson-EVA2019/blob/main/Poisson_image_editing.ipynb).
+
 
 <img src="https://github.com/zishun/Poisson-EVA2019/raw/main/data/pie/pie_result.png" width="800"/>
 
